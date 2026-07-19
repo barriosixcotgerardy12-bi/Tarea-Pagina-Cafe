@@ -1,0 +1,13 @@
+header {
+background-color: yellow;
+}
+
+section {
+ border: 1px solid gray;
+ margin: 10px 10px;
+ padding: 20px 20px;
+}
+
+table {
+ border: 1px dashed gray;
+}
